@@ -181,7 +181,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://bodwel.com/",
+  "url": "https://www.modoneng.com/",
   "name": "GANDARIABET : Situs Link Slot Online Tumbuh Bersama Kepercayaan Berlebihan",
   "sku": "GANDARIABET-SLOT-ONLINE",
   "description": "GANDARIABET fokus pada kualitas pengalaman bermain. Dengan permainan variatif, sistem tertata, dan proses yang praktis, setiap sesi dirancang untuk berjalan lebih tenang dan efisien.",
@@ -230,7 +230,7 @@
   "publisher": {
     "@type": "Organization",
     "name": "GANDARIABET",
-    "url": "https://bodwel.com/"
+    "url": "https://www.modoneng.com/"
   }
 }
 </script>
@@ -245,25 +245,25 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Game Online",
-      "item": "https://bodwel.com/"
+      "item": "https://www.modoneng.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Online",
-      "item": "https://bodwel.com/"
+      "item": "https://www.modoneng.com/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Situs Slot",
-      "item": "https://bodwel.com/"
+      "item": "https://www.modoneng.com/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "GANDARIABET",
-      "item": "https://bodwel.com/"
+      "item": "https://www.modoneng.com/"
     }
   ]
 }
